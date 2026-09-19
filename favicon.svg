@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Lista Fácil</title>
+  <rect width="64" height="64" rx="18" fill="#5b5ce2"/>
+  <path d="m17 33 10 10 21-23" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+</svg>
