@@ -1,0 +1,6 @@
+services:
+  - type: web
+    runtime: static
+    name: lista-tarefas
+    buildCommand: "echo 'Static site: no build step'"
+    staticPublishPath: .
